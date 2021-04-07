@@ -1,6 +1,6 @@
 # CombineOptional
 
-Combine extension for Swift optionals types. Inspired by [RxOptioonal](https://github.com/RxSwiftCommunity/RxOptional).
+Combine extension for Swift optionals types. Inspired by [RxOptional](https://github.com/RxSwiftCommunity/RxOptional).
 
 ## Installation
 
@@ -12,7 +12,7 @@ import PackageDescription
 let package = Package(
     name: "ProjectName",
     dependencies: [
-        .Package(url: "https://github.com/yuta24/CombineOOptional")
+        .Package(url: "https://github.com/yuta24/CombineOptional")
     ]
 )
 ```
